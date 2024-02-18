@@ -16,7 +16,6 @@ TrackerApp(JourneyToSouth)  is a Kotlin-based Android application that demonstra
    git clone https://github.com/your-username/JourneyToSouth.git
 ## Screenshots
 
-demonstrating the key features of your application.
 <img src="https://github.com/Yogender21505/TrackerApp/assets/104339650/823a99ee-4143-4fbd-9958-7fa569e6767c" width="200">
 <img src="https://github.com/Yogender21505/TrackerApp/assets/104339650/208dd3e4-74ba-46bd-9e40-54fc7a76d1a7" width="200">
 <img src="https://github.com/Yogender21505/TrackerApp/assets/104339650/770238bf-bba1-4e46-af61-3e59f5b2bf02" width="200">
