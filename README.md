@@ -17,12 +17,12 @@ TrackerApp(JourneyToSouth)  is a Kotlin-based Android application that demonstra
 ## Screenshots
 
 demonstrating the key features of your application.
-![WhatsApp Image 2024-02-19 at 03 11 49_7beea5d3](https://github.com/Yogender21505/TrackerApp/assets/104339650/823a99ee-4143-4fbd-9958-7fa569e6767c)
-![WhatsApp Image 2024-02-19 at 03 11 50_6fdb3443](https://github.com/Yogender21505/TrackerApp/assets/104339650/208dd3e4-74ba-46bd-9e40-54fc7a76d1a7)
-![WhatsApp Image 2024-02-19 at 03 11 50_367dc17a](https://github.com/Yogender21505/TrackerApp/assets/104339650/770238bf-bba1-4e46-af61-3e59f5b2bf02)
-![WhatsApp Image 2024-02-19 at 03 11 50_dbb5fd7b](https://github.com/Yogender21505/TrackerApp/assets/104339650/75cc8be4-13b3-4f7d-9dd5-1f77f472799e)
-![WhatsApp Image 2024-02-19 at 03 11 51_39a8c5b0](https://github.com/Yogender21505/TrackerApp/assets/104339650/bdf6c06d-f53e-48f9-bcb4-21cf34bf6046)
-![WhatsApp Image 2024-02-19 at 03 11 51_51a406b6](https://github.com/Yogender21505/TrackerApp/assets/104339650/29e3d026-d9e1-4d8c-bc0c-274acfca9606)
+<img src="https://github.com/Yogender21505/TrackerApp/assets/104339650/823a99ee-4143-4fbd-9958-7fa569e6767c" width="200">
+<img src="https://github.com/Yogender21505/TrackerApp/assets/104339650/208dd3e4-74ba-46bd-9e40-54fc7a76d1a7" width="200">
+<img src="https://github.com/Yogender21505/TrackerApp/assets/104339650/770238bf-bba1-4e46-af61-3e59f5b2bf02" width="200">
+<img src="https://github.com/Yogender21505/TrackerApp/assets/104339650/75cc8be4-13b3-4f7d-9dd5-1f77f472799e" width="200">
+<img src="https://github.com/Yogender21505/TrackerApp/assets/104339650/bdf6c06d-f53e-48f9-bcb4-21cf34bf6046" width="200">
+<img src="https://github.com/Yogender21505/TrackerApp/assets/104339650/29e3d026-d9e1-4d8c-bc0c-274acfca9606" width="200">
 
 
 ## Usage
